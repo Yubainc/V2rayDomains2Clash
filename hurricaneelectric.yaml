@@ -1,0 +1,8 @@
+# NAME: hurricaneelectric
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hurricaneelectric
+# COUNT: 1
+# UPDATED: 2024-10-24 21:37:23
+
+payload:
+- "+.he.net"

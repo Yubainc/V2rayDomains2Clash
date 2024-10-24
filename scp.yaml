@@ -1,0 +1,10 @@
+# NAME: scp
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/scp
+# COUNT: 3
+# UPDATED: 2024-10-24 21:37:23
+
+payload:
+- "+.scp-wiki.net"
+- "+.scpdb.org"
+- "+.scpwiki.com"
