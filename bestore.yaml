@@ -1,0 +1,10 @@
+# NAME: bestore
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/bestore
+# COUNT: 3
+# UPDATED: 2024-12-08 21:35:55
+
+payload:
+- "+.517lppz.com"
+- "+.lppz.com"
+- "+.lppzimg.com"

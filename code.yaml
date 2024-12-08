@@ -1,0 +1,8 @@
+# NAME: code
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/code
+# COUNT: 1
+# UPDATED: 2024-12-08 21:35:55
+
+payload:
+- "+.code.org"
