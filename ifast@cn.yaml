@@ -1,0 +1,8 @@
+# NAME: ifast
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/ifast
+# COUNT: 1
+# UPDATED: 2024-12-09 21:37:55
+
+payload:
+- "+.ifastps.com.cn"

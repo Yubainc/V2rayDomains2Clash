@@ -1,0 +1,8 @@
+# NAME: chinapower
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/chinapower
+# COUNT: 1
+# UPDATED: 2024-12-09 21:37:55
+
+payload:
+- "chinapower.csis.org"

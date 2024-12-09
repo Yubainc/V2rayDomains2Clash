@@ -1,0 +1,9 @@
+# NAME: cmb
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/cmb
+# COUNT: 2
+# UPDATED: 2024-12-09 21:37:55
+
+payload:
+- "+.cmbi.com.hk"
+- "+.cmbwinglungbank.com"

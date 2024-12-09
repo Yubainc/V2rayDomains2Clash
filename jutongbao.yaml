@@ -1,0 +1,10 @@
+# NAME: jutongbao
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jutongbao
+# COUNT: 3
+# UPDATED: 2024-12-09 21:37:55
+
+payload:
+- "+.guanggaotongapp.cn"
+- "+.jutongbao.online"
+- "+.jutongbao.top"

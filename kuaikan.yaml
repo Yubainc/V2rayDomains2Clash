@@ -1,0 +1,9 @@
+# NAME: kuaikan
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kuaikan
+# COUNT: 2
+# UPDATED: 2024-12-09 21:37:55
+
+payload:
+- "+.kkmh.com"
+- "+.kuaikanmanhua.com"
