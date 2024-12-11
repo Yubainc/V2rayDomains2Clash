@@ -1,0 +1,11 @@
+# NAME: collabora
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/collabora
+# COUNT: 4
+# UPDATED: 2024-12-11 21:37:04
+
+payload:
+- "+.collabora.co.uk"
+- "+.collabora.com"
+- "+.collabora.org"
+- "+.collaboraoffice.com"

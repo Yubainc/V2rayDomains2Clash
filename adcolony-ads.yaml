@@ -1,0 +1,8 @@
+# NAME: adcolony-ads
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/adcolony-ads
+# COUNT: 1
+# UPDATED: 2024-12-11 21:37:04
+
+payload:
+- "+.adcolony.com"

@@ -1,0 +1,9 @@
+# NAME: debian
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/debian
+# COUNT: 2
+# UPDATED: 2024-12-11 21:37:04
+
+payload:
+- "+.debian.org"
+- "+.dotdeb.org"

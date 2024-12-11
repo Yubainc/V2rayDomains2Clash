@@ -1,0 +1,9 @@
+# NAME: miaomiaozhe
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/miaomiaozhe
+# COUNT: 2
+# UPDATED: 2024-12-11 21:37:04
+
+payload:
+- "+.miaomiaoz.com"
+- "+.miaomiaozhe.com"
