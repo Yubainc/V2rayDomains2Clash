@@ -1,0 +1,11 @@
+# NAME: intercom
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/intercom
+# COUNT: 4
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.intercom.com"
+- "+.intercom.io"
+- "+.intercomassets.com"
+- "+.intercomcdn.com"

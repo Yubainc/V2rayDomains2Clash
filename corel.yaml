@@ -1,0 +1,12 @@
+# NAME: corel
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/corel
+# COUNT: 5
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.corel.com"
+- "+.corel.net"
+- "+.coreldraw.app"
+- "+.coreldraw.com"
+- "+.corelstore.com"

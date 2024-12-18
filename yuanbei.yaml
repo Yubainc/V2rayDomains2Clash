@@ -1,0 +1,12 @@
+# NAME: yuanbei
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/yuanbei
+# COUNT: 5
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.i2oo.cn"
+- "+.laoban100.com"
+- "+.shengyi.ai"
+- "+.shengyizhuanjia.com"
+- "+.yuanbei.biz"

@@ -1,0 +1,8 @@
+# NAME: roborock
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/roborock
+# COUNT: 1
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.roborock.com"

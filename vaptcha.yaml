@@ -1,0 +1,9 @@
+# NAME: vaptcha
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/vaptcha
+# COUNT: 2
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.vaptcha.com"
+- "+.vaptcha.net"

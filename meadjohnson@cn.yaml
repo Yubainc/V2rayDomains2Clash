@@ -1,0 +1,9 @@
+# NAME: meadjohnson
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/meadjohnson
+# COUNT: 2
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.enfinitas.com.cn"
+- "+.meadjohnson.com.cn"

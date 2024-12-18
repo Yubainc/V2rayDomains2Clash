@@ -1,0 +1,12 @@
+# NAME: gateio
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/gateio
+# COUNT: 5
+# UPDATED: 2024-12-18 21:36:00
+
+payload:
+- "+.gate.io"
+- "+.gatedata.org"
+- "+.gateimg.com"
+- "+.gateio.live"
+- "+.gateio.services"
