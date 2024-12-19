@@ -1,0 +1,10 @@
+# NAME: blender
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/blender
+# COUNT: 3
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.bigbuckbunny.org"
+- "+.blender.org"
+- "+.elephantsdream.org"

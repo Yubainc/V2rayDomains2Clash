@@ -1,0 +1,9 @@
+# NAME: sciencedirect
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/sciencedirect
+# COUNT: 2
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.sciencedirect.com"
+- "+.sciencedirectassets.com"

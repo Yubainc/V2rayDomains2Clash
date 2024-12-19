@@ -1,0 +1,9 @@
+# NAME: pandanet
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pandanet
+# COUNT: 2
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.joyjoy.net"
+- "+.pandanet-igs.com"

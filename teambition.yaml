@@ -1,0 +1,10 @@
+# NAME: teambition
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/teambition
+# COUNT: 3
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.teambition.com"
+- "+.teambition.net"
+- "+.teambitionapis.com"

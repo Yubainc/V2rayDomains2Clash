@@ -1,0 +1,10 @@
+# NAME: pgyer
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pgyer
+# COUNT: 3
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.frontjs.com"
+- "+.pgyer.com"
+- "+.tracup.com"

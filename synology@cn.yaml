@@ -1,0 +1,9 @@
+# NAME: synology
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/synology
+# COUNT: 2
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.quickconnect.cn"
+- "+.synology.cn"

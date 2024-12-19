@@ -1,0 +1,9 @@
+# NAME: proquest
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/proquest
+# COUNT: 2
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.proquest.com"
+- "+.serialssolutions.com"

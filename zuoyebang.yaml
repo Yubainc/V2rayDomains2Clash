@@ -1,0 +1,10 @@
+# NAME: zuoyebang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zuoyebang
+# COUNT: 3
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.zuoyebang.cc"
+- "+.zuoyebang.com"
+- "+.zybang.com"

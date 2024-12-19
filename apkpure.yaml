@@ -1,0 +1,12 @@
+# NAME: apkpure
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/apkpure
+# COUNT: 5
+# UPDATED: 2024-12-19 21:35:30
+
+payload:
+- "+.apkpure.com"
+- "+.apkpure.net"
+- "+.cdnpure.com"
+- "+.pureapk.com"
+- "+.winudf.com"
