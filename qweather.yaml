@@ -1,0 +1,11 @@
+# NAME: qweather
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/qweather
+# COUNT: 4
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.hecdn.net"
+- "+.heweather.net"
+- "+.qweather.com"
+- "+.qweather.net"

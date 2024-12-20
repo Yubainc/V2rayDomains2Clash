@@ -1,0 +1,10 @@
+# NAME: razer
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/razer
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.razerapi.com"
+- "+.razersynapse.com"
+- "+.razerzone.com"

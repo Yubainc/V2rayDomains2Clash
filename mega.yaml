@@ -1,0 +1,10 @@
+# NAME: mega
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mega
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.mega.co.nz"
+- "+.mega.io"
+- "+.mega.nz"

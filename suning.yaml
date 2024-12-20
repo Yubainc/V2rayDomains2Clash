@@ -1,0 +1,13 @@
+# NAME: suning
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/suning
+# COUNT: 6
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.cnsuning.com"
+- "+.suning.cn"
+- "+.suning.com"
+- "+.suningcloud.com"
+- "+.suningestate.com"
+- "+.suningholdings.com"

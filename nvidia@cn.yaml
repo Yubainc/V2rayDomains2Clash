@@ -1,0 +1,11 @@
+# NAME: nvidia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nvidia
+# COUNT: 4
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.geforce.cn"
+- "+.gputechconf.cn"
+- "+.nvidia.cn"
+- "cn.download.nvidia.com"

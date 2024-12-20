@@ -1,0 +1,10 @@
+# NAME: quip
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/quip
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:44
+
+payload:
+- "+.quip-cdn.com"
+- "+.quip.com"
+- "+.quipelements.com"

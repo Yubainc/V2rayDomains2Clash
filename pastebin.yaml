@@ -1,0 +1,8 @@
+# NAME: pastebin
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/pastebin
+# COUNT: 1
+# UPDATED: 2024-12-20 21:35:44
+
+payload:
+- "+.pastebin.com"

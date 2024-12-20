@@ -1,0 +1,10 @@
+# NAME: jianshu
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jianshu
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:44
+
+payload:
+- "+.jianshu.com"
+- "+.jianshu.io"
+- "+.jianshuapi.com"

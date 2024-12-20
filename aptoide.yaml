@@ -1,0 +1,8 @@
+# NAME: aptoide
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/aptoide
+# COUNT: 1
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.aptoide.com"

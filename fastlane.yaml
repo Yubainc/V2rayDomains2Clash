@@ -1,0 +1,9 @@
+# NAME: fastlane
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fastlane
+# COUNT: 2
+# UPDATED: 2024-12-20 21:35:44
+
+payload:
+- "+.fastlane.ci"
+- "+.fastlane.tools"

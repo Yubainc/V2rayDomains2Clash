@@ -1,0 +1,10 @@
+# NAME: jetbrains-ai
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains-ai
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:44
+
+payload:
+- "+.grazie.ai"
+- "+.grazie.aws.intellij.net"
+- "+.jetbrains.ai"

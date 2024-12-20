@@ -1,0 +1,9 @@
+# NAME: 4plebs
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/4plebs
+# COUNT: 2
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.4pcdn.org"
+- "+.4plebs.org"

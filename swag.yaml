@@ -1,0 +1,10 @@
+# NAME: swag
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/swag
+# COUNT: 3
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.5w.ag"
+- "+.swag-live.co"
+- "+.swag.live"

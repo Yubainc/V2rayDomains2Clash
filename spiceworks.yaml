@@ -1,0 +1,9 @@
+# NAME: spiceworks
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/spiceworks
+# COUNT: 2
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.spiceworks.com"
+- "+.spiceworksstatic.com"

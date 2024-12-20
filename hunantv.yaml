@@ -1,0 +1,14 @@
+# NAME: hunantv
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/hunantv
+# COUNT: 7
+# UPDATED: 2024-12-20 21:35:43
+
+payload:
+- "+.hifuntv.com"
+- "+.hitv.com"
+- "+.hnbntv.com"
+- "+.hunaniptv.com"
+- "+.hunantv.com"
+- "+.imgo.tv"
+- "+.mgtv.com"
